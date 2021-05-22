@@ -1,0 +1,6 @@
+,count,unique,top,freq
+current_status,5435,1,Laboratory-confirmed case,5435
+sex,5435,2,Female,2859
+age_group,5435,9,20 - 29 Years,948
+hosp_yn,5435,2,No,4771
+death_yn,5435,2,No,5204

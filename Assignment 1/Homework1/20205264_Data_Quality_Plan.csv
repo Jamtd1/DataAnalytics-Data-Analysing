@@ -1,0 +1,12 @@
+Variable_Names,Data_Quality_Issue,Handeling_Strategy
+current_status,probable status (427 rows),"Remove, not necessary"
+hosp_yn,non-permitted value (2 rows),Remove
+hosp_yn,Missing values (2366 rows),Remove
+hosp_yn,Unknown values (1704 rows),Remove
+race_ethnicity_combined,High levels of unknown values - unuseable,Remove
+age_group,Missing values (9 rows),Remove
+sex,Missing Values (7 rows),Remove
+sex,Unknown values (24 rows),Remove
+test_1a_true_index,Not earliest date (26 rows),Remove
+cdc_report_dt,Nat values (400 rows),Do Nothing
+onset_dt,NaT values (1473 rows),Do Nothing
